@@ -2,6 +2,12 @@
 Portfolio of simple apps
 
 
+## To-Do List App
+![](./ss-to-do.jpg)
+- [Source code](https://github.com/damdafayton/to-do-list)
+- [Live](https://damdafayton.github.io/to-do-list/dist)
+
+
 ## Rock-Paper-Scissor
 ![](./rps-animation.gif)
 - [Source code](https://github.com/damdafayton/rock-paper-scissors)

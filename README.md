@@ -1,5 +1,5 @@
 # portfolio-simple
-Portfolio of various Apps built as practice imitating real-world examples.
+Portfolio of various Apps built for practice, imitating real-world examples.
 
 
 ## Book Store
@@ -11,7 +11,7 @@ Portfolio of various Apps built as practice imitating real-world examples.
   - HTML, CSS, JavaSscript
   - Bootstrap, SCSS, React
   - Redux
-  
+
 
 ## Space Hub - Group Project
 ![](./ss-spacehub.png)

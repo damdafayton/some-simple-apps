@@ -1,5 +1,6 @@
-# portfolio-simple
-Portfolio of various Apps built for practice, imitating real-world examples.
+# Portfolio of simple apps. 
+Portfolio of various apps built for practice, imitating real-world examples.
+Check my [main portfolio page](http://damdafayton.github.io/portfolio/) for more sophisticated apps
 
 
 ## Book Store
